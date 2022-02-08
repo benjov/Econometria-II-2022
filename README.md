@@ -1,4 +1,4 @@
-# Econometria-II-2021
+# Econometria-II-2022
 Curso de Econometría II, FE-UNAM
 
 ## Temario
